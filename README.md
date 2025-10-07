@@ -55,3 +55,6 @@ In high-density public environments, human surveillance can be error-prone and s
 
 ---
 
+## Architecture
+
+<img width="3731" height="3840" alt="Untitled diagram _ Mermaid Chart-2025-10-07-075733" src="https://github.com/user-attachments/assets/5d314b7c-7590-42ba-9bac-0717392cd7cf" />
